@@ -1,0 +1,8 @@
+1.0 version : First Release
+
+1.1 since cake theme
+- update: add the_excerpt on team shortcode
+- update: add filter to display shortcode in widget text
+
+1.2 since safaria theme
+- update: add custom post type destination
