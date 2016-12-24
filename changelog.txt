@@ -6,3 +6,6 @@
 
 1.2 since safaria theme
 - update: add custom post type destination
+
+1.3
+- bugfix : price on product slider carousel

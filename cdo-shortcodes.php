@@ -3,7 +3,7 @@
 Plugin Name: Codeopus Shortcodes
 Plugin URI: http://codeopus.net
 Description: Shortcode generator. Add buttons, columns, tabs, toggles to your theme.
-Version: 1.2
+Version: 1.3
 Author: codeopus
 Author URI: http://codeopus.net
 */

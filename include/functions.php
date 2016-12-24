@@ -99,7 +99,7 @@ if ( ! function_exists( 'cdo_product_slider_function' ) ) {
 						$product = new WC_Product( get_the_ID() );
 						$price = $product->price;
 						$price_html = $product->get_price_html();
-						$theprice = preg_replace('/.00/', '', $price_html);
+						$theprice = $price_html;
 					  
 						$out.='<div>
 						  <div class="box-ex-promo '.esc_attr($getthecolor).'">
