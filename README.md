@@ -1,5 +1,5 @@
 # Codeopus-Shortcodes
-WodrPress Shortcode by Codeopus
+WordPress Shortcode by Codeopus
 
 ## Installation
 
